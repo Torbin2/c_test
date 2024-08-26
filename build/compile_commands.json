@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/torbin/.vscode/projects/c_test/build",
-  "command": "/usr/bin/cc -g -o CMakeFiles/asres.dir/main.c.o -c /home/torbin/.vscode/projects/c_test/main.c",
-  "file": "/home/torbin/.vscode/projects/c_test/main.c",
-  "output": "CMakeFiles/asres.dir/main.c.o"
-}
-]
